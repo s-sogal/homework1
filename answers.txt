@@ -1,4 +1,4 @@
-What is a remote repository?
 
-A project folder that is hosted on the web.
 
+
+What is a remote repository? A project folder that is hosted on the web.
