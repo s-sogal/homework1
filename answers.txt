@@ -1,0 +1,3 @@
+What is a remote repository?
+
+A project folder that contains files hosted on the internet.
